@@ -34,14 +34,14 @@ https://drive.google.com/file/d/1ynOFv0evMI0GaN7_YOXVy6YP4jS0iIhi/view?usp=shari
 #### 결제 페이지
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/98885221/218721588-3572ed30-e099-4a0d-87d2-d0dcc6257dfa.gif)
 
-### 적용 기술
+## 적용 기술
 <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-### 협업 툴
+## 협업 툴
 * github
 * Slack
 * Trello
 * Notion
 
-### Reference
+## Reference
 이 프로젝트는 CGV를 참조하여 학습목적으로 만들었습니다. 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
